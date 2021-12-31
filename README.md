@@ -6,7 +6,7 @@
 
 This is Final Version OF Orange Fox Recovery After Alot Of Tests.
 
-This Is The Best Featureful & Customizable Recovery For Infinix Smart 3 Plus.
+This Is The 3rd Best (Featureful & Customizable) Recovery For Infinix Smart 3 Plus.
 
 --------------------------
 Whats Working:-
